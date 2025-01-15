@@ -74,7 +74,7 @@ body {
   background-image: url(images/image-victor.jpg);
   background-position: center;
   background-size: cover;
-  margin-top: 9.2rem;
+  margin-top: 8.9rem;
   margin-bottom: 2.4rem;
 }
 
@@ -115,7 +115,7 @@ body {
 .stat {
   display: flex;
   flex-direction: column;
-  gap: 0.7rem;
+  gap: 0.5rem;
 }
 
 .stat__value {

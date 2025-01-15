@@ -33,7 +33,7 @@ body {
   background-color: rgb(var(--Dark-cyan));
   background-image: url(images/bg-pattern-top.svg),
     url(images/bg-pattern-bottom.svg);
-  background-position: top -50rem left -29rem, bottom -55rem right -25rem;
+  background-position: top -50rem left -29rem, bottom -60rem right -25rem;
   background-repeat: no-repeat;
 }
 

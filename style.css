@@ -67,8 +67,8 @@ body {
 }
 
 .profile-card__image {
-  width: 10rem;
-  height: 10rem;
+  width: 10.5rem;
+  height: 10.5rem;
   border-radius: 9rem;
   border: 0.5rem solid var(--White);
   background-image: url(images/image-victor.jpg);
